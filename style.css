@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#rgb-color {
+  margin-top: 50px;
+}
+
+.ball {
+  margin: 20px 5px;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 100px;
+}
+
+#reset-game {
+  width: 120px;
+  height: 30px;
+}
